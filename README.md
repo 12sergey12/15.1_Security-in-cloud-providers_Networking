@@ -505,17 +505,17 @@ root@baranovsa:/home/baranovsa/15.1_cloud/terraform#
 
 Виртуальные машины
 
-[monitoring](https://github.com/12sergey12/15.1_Security-in-cloud-providers_Networking/blob/main/images/15.1_vm.png)
+![monitoring](https://github.com/12sergey12/15.1_Security-in-cloud-providers_Networking/blob/main/images/15.1_vm.png)
 
 
 Подсети 
 
-[monitoring](https://github.com/12sergey12/15.1_Security-in-cloud-providers_Networking/blob/main/images/15.1_podset.png)
+![monitoring](https://github.com/12sergey12/15.1_Security-in-cloud-providers_Networking/blob/main/images/15.1_podset.png)
 
 
 Таблицы маршрутизации
 
-[monitoring](https://github.com/12sergey12/15.1_Security-in-cloud-providers_Networking/blob/main/images/15.1_tabl.marsh..png)
+![monitoring](https://github.com/12sergey12/15.1_Security-in-cloud-providers_Networking/blob/main/images/15.1_tabl.marsh..png)
 
 
 Проверка интернета с public
